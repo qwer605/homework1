@@ -1,3 +1,3 @@
 from lib import sort
-n=int(input("Chislo: "))
+n=int(input("Number: "))
 sort(n)
