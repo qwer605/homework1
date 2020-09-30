@@ -1,5 +1,5 @@
-from lib import sort
+from lib import library
 
 
 n=int(input("Number: "))
-sort(n)
+library.sort(n)
